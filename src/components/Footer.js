@@ -6,6 +6,7 @@ import React from 'react';
 <div className="text-center p-3">
   © 2020 LionheartEva:
   <a href='https://www.google.com/' rel='noopener noreferrer' target="_blank">GITHUB</a>
+  <p>Credentials, Email: challenge@alkemy.org Password: react</p>
 </div>
 </footer>
     );
