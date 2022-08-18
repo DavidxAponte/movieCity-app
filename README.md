@@ -35,7 +35,7 @@ This app can display a list of 20 movies more popular from TMDB API, besides you
 
 **ReactJs**:  https://reactjs.org/
 
-** React-Router-Dom**: https://reactrouter.com/docs/en/v6/getting-started/overview
+**React-Router-Dom**: https://reactrouter.com/docs/en/v6/getting-started/overview
 
 **Axios**: https://github.com/axios/axios
 
